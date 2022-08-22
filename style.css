@@ -119,11 +119,11 @@ body {
 }
 
 .app_download:nth-child(1) {
-    background-image: url('./selo_apple_store.png');
+    background-image: url(img/selo_apple_store.png);
 }
 
 .app_download:nth-child(2) {
-    background-image: url('./selo_google_play.png');
+    background-image: url(img/selo_google_play.png);
 }
 
 /*media queries*/

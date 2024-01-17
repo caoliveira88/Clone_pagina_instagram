@@ -1,15 +1,16 @@
-# Recriando_pagina_instagram 
+# Clone_pagina_instagram 
 
-Olá! Nesse primeiro projeto recriei a página do Instagram, para o curso HTML Web Developer (Digital Innovation One) 🚀
+Olá! Este projeto marca meus primeiros passos no desenvolvimento web, onde me propus a recriar a página inicial do Instagram. 
+Utilizei uma combinação de HTML e CSS para dar vida a esta representação!
 
- ![Recriando_pagina_instagram](img/pagina_insta.jpg)
+ ![Clone_pagina_instagram](img/pagina_insta.jpg)
 
-## Tecnicas e ferramentas utilizadas
-- ``HTML``
-- ``CSS``
-- ``Flexbox``
-- ``VS Code IDEA``
+## Tool kit
+- ``HTML:`` A linguagem de marcação que estrutura a base da página.
+- ``CSS:`` A folha de estilo que conferiu estilo e design à estrutura HTML.
+- ``Flexbox:`` Utilizei o modelo de layout Flexbox para criar um design responsivo e flexível.
+- ``VS Code IDEA:`` O ambiente de desenvolvimento integrado que proporcionou uma experiência de codificação eficiente.
 
 ## Deploy
-[Recriando_pagina_instagram](https://caoliveira88.github.io/Recriando_pagina_instagram/)
+[Clone_pagina_instagram](https://caoliveira88.github.io/Recriando_pagina_instagram/)
 

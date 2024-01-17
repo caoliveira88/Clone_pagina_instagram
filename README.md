@@ -12,5 +12,5 @@ Utilizei uma combinação de HTML e CSS para dar vida a esta representação!
 - ``VS Code IDEA:`` O ambiente de desenvolvimento integrado que proporcionou uma experiência de codificação eficiente.
 
 ## Deploy
-[Clone_pagina_instagram](https://caoliveira88.github.io/Recriando_pagina_instagram/)
+Para visualizar o resultado final, acesse [Clone_pagina_instagram](https://caoliveira88.github.io/Recriando_pagina_instagram/)
 
